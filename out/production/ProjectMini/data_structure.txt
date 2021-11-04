@@ -1,0 +1,69 @@
+How can we describe an array in the best possible way?
+The Array shows a hierarchical structure.
+Arrays are immutable.
+Container that stores the elements of similar types
+The Array is not a data structure
+Container that stores the elements of similar types
+
+Which of the following is the correct way of declaring an array?
+int javatpoint[10];
+int javatpoint;
+javatpoint{20};
+array javatpoint[10];
+int javatpoint[10];
+
+How can we initialize an array in C language?
+int arr[2]=(10, 20)
+int arr(2)={10, 20}
+int arr[2] = {10, 20}
+int arr(2) = (10, 20)
+int arr[2] = {10, 20}
+
+Which of the following is the advantage of the array data structure?
+Elements of mixed data types can be stored.
+Easier to access the elements in an array
+Index of the first element starts from 1.
+Elements of an array cannot be sorted
+Easier to access the elements in an array
+
+Which of the following highly uses the concept of an array?
+Binary Search tree
+Caching
+Spatial locality
+Scheduling of Processes
+Spatial locality
+
+Which of the following is the disadvantage of the array?
+Stack and Queue data structures can be implemented through an array.
+Index of the first element in an array can be negative
+Wastage of memory if the elements inserted in an array are lesser than the allocated size
+Elements can be accessed sequentially.
+Wastage of memory if the elements inserted in an array are lesser than the allocated size
+
+Which one of the following is the size of int arr[9] assuming that int is of 4 bytes?
+9
+36
+35
+None of the above
+36
+
+Which one of the following is the process of inserting an element in the stack?
+Insert
+Add
+Push
+None of the above
+Push
+
+When the user tries to delete the element from the empty stack then the condition is said to be a ____
+Underflow
+Garbage collection
+Overflow
+None of the above
+Underflow
+
+If the size of the stack is 10 and we try to add the 11th element in the stack then the condition is known as___
+Underflow
+Garbage collection
+Overflow
+None of the above
+Overflow

@@ -1,0 +1,69 @@
+Which of the following is not an operating system?
+Windows
+Linux
+Oracle
+DOS
+Oracle
+
+What is the maximum length of the filename in DOS?
+4
+5
+8
+12
+8
+
+When was the first operating system developed?
+1948
+1949
+1950
+1951
+1950
+
+When were MS windows operating systems proposed?
+1994
+1990
+1992
+1985
+1985
+
+Which of the following is the extension of Notepad?
+.txt
+.xls
+.ppt
+.bmp
+.txt
+
+What else is a command interpreter called?
+prompt
+kernel
+shell
+command
+shell
+
+What is the full name of FAT?
+File attribute table
+File allocation table
+Font attribute table
+Format allocation table
+File allocation table
+
+BIOS is used?
+By operating system
+By compiler
+By interpreter
+By application software
+By operating system
+
+What is the mean of the Booting in the operating system?
+Restarting computer
+Install the program
+To scan
+To turn off
+Restarting computer
+
+When does page fault occur?
+The page is present in memory
+The deadlock occurs
+The page does not present in memory
+The buffering occurs
+The page does not present in memory
